@@ -11,7 +11,7 @@
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Iron",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Logistics","Accuracy I","March"],
 		"attackSound": "phasers"
 	}
 ]
