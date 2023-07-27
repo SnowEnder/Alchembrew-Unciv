@@ -10,7 +10,7 @@
 		"range": 15,
 		"cost": 500,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Gold",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
